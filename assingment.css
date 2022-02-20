@@ -200,6 +200,9 @@ footer div{
     width: 300px;
 }
 @media screen and (max-width:991px){
+    .search{
+    margin-left: 5%;
+    }
     ads img{
         height: 100px;
     }
@@ -212,6 +215,9 @@ footer div{
     }
 }
 @media screen and (max-width:1024px){
+    .search{
+    margin-left: 5%;
+    }
     ads img{
         height: 70px;
     }
