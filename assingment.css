@@ -200,6 +200,9 @@ footer div{
     width: 300px;
 }
 @media screen and (max-width:991px){
+    .menue{
+    width:60%;
+    }
     .search{
     margin-left: 5%;
     }
@@ -215,6 +218,9 @@ footer div{
     }
 }
 @media screen and (max-width:1024px){
+        .menue{
+    width:60%;
+    }
     .search{
     margin-left: 5%;
     }
