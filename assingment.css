@@ -292,7 +292,7 @@ footer div{
         display: none;
     }
     .nav-toggle:checked ~ .menue {
-        animation: toggle 1s;
+        animation: toggle 250ms;
         display: block;
         overflow: hidden;
     }
